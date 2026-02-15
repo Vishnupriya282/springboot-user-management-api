@@ -18,3 +18,13 @@ public interface UserRepository extends JpaRepository<User, Long> {
 //delete()
 //
 //update()
+
+//JpaRepository already supports:
+//
+//pagination
+//
+//sorting
+//
+//limit
+//
+//offset
